@@ -13,6 +13,7 @@
 .post__body > img {
 	border-radius: 20px;
 	width: 100%;
+	object-fit: contain;
 }
 
 .post__footer {
